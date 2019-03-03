@@ -10,6 +10,7 @@
 - `TensorBoardGraph`: TensorBoard files
 - `checkpoints`: model checkpoints
 - `dataset`: generated dataset
-- `downloadedData`: downloaded from seffaflik.epias.com.tr
+- `downloadedData`: downloaded from https://seffaflik.epias.com.tr
+- - `temperatures`: downloaded from https://rp5.ru
 - `models`: trained models
 - `plot-prediction`: prediction files
