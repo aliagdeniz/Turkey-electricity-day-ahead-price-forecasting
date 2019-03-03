@@ -16,7 +16,7 @@
 - `plot-prediction`: plotted graphs
 
 # Scores
-- Train r2_score:  0.9079621406243497
-- Test r2_score:  0.8706060734137501
-- Train RMSE Score: 20.98138 
-- Test RMSE Score: 24.87018
+- Train r2_score:  *0.9079621406243497*
+- Test r2_score:  *0.8706060734137501*
+- Train RMSE Score: *20.98138*
+- Test RMSE Score: *24.87018*
